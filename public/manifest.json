@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Organízate IA",
+  "short_name": "Organízate",
+  "description": "Organiza tus tareas, horarios y entregas escolares en un solo lugar.",
+  "lang": "es-MX",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f3",
+  "theme_color": "#486e59",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
